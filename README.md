@@ -1,7 +1,8 @@
 # SwingStats
 # Golf launch monitor swing stats backed by https://github.com/pandas-profiling/pandas-profiling
+#
 
-- pandas-profiling package source code has been slightly modified for my own purpose
+pandas-profiling package source code has been slightly modified for my own purpose, follow below steps:
 
 1. Install package like normal using pip install (SPECIFY v2.8 - see issues in pandas-profile repo)
 2. Find your site-packages folder where pip installs to and find the pandas-profiling folder
